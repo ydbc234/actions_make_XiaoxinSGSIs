@@ -1,6 +1,6 @@
 {
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
+  "rom_url": "https://firmware.meizu.com/Firmware/Flyme/16s_Pro/8.1.5.0/cn/20200911100547/1e9fa16a/update.zip",
+  "rom_name": "gsi k30u",
   "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": true,
   "make_flyme": false,
